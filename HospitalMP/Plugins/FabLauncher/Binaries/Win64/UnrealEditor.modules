@@ -1,0 +1,9 @@
+{
+	"BuildId": "47537391",
+	"Modules": 
+	{
+		"FabLauncher": "UnrealEditor-FabLauncher.dll",
+		"FabLauncherQuixelDependencies": "UnrealEditor-FabLauncherQuixelDependencies.dll",
+		"FabSharedInterchangeHandler": "UnrealEditor-FabSharedInterchangeHandler.dll"
+	}
+}
